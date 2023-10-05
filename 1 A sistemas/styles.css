@@ -6,7 +6,7 @@ header{
    font-size: 40px;
    color: rgb(141, 226, 43);
    width: 100%;
-   height: 45px;
+   height: 40px;
    text-align: center;
    padding: 10px;
 
@@ -14,9 +14,16 @@ header{
 .imagem_da_pagina{
    text-align: center;
 
+
 }
 img{
    width: 90%;
    height: auto;
 
+}
+
+
+div{
+    text-align: center;
+    font-size: 40px;
 }

@@ -1,29 +1,41 @@
 
+body{
+   font-family: Arial, sans-serif;
+   background-color: black;
+   margin: 0%;
+   padding: 0%;
+}
 
 header{
-   background-color: rgb(141, 226, 43);
-   background-color: rgb(246, 255, 119);
-   font-size: 40px;
-   color: rgb(141, 226, 43);
-   width: 100%;
-   height: 40px;
    text-align: center;
-   padding: 10px;
-
-}
-.imagem_da_pagina{
-   text-align: center;
-
-
-}
-img{
-   width: 90%;
-   height: auto;
-
+   background-color: blueviolet;
+   color: aqua;
+   padding: 20px 0;
 }
 
+h1 {
+   margin: 0;
+}
 
-div{
-    text-align: center;
-    font-size: 40px;
+main{
+text-align: center;
+padding: 20px 0;
+}
+
+.image-container{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.image-container img {
+width: 720px;
+margin: 0% 40px;
+}
+
+footer {
+text-align: center;
+background-color: aqua;
+color: black;
+padding: 20px 0;
 }

@@ -1,0 +1,41 @@
+
+body{
+   font-family: Arial, sans-serif;
+   background-color: rgb(252, 225, 225);
+   margin: 0%;
+   padding: 0%;
+}
+
+header{
+   text-align: center;
+   background-color: rgb(221, 67, 28);
+   color: rgb(221, 67, 28);
+   padding: 20px 0;
+}
+
+h1 {
+   margin: 0;
+}
+
+main{
+text-align: center;
+padding: 20px 0;
+}
+
+.image-container{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.image-container img {
+width: 720px;
+margin: 0% 40px;
+}
+
+footer {
+text-align: center;
+background-color: rgb(255, 72, 0);
+color: rgb(255, 255, 255);
+padding: 50px 0;
+}
